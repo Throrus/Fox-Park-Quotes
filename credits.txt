@@ -1,0 +1,51 @@
+Image by "https://pixabay.com/users/ZERIG-934572/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2386721" by Jeroným Pelikovský from "https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2386721" Pixabay.
+
+
+Artists
+
+Add link at the very bottom of the page.
+
+CREDITS
+
+This website was designed and developed by John Slice.
+
+I would like to thank the following for their help with this process:
+
+The web framework Flask
+artist: by Jeroným Pelikovský from Pixabay
+The Flask Mega-Tutorial
+The Atom Code Editor
+
+These Python Libraries: 
+
+alembic
+blinker
+certifi
+click
+dnspython
+dominate
+email-validator
+Flask
+Flask-Bootstrap
+Flask-Login
+Flask-Mail
+Flask-Migrate
+Flask-Moment
+Flask-SQLAlchemy
+Flask-WTF
+idna
+itsdangerous
+Jinja2
+Mako
+MarkupSafe
+PyJWT
+python-dateutil
+python-dotenv
+python-editor
+pytz
+six
+SQLAlchemy
+urllib3
+visitor
+Werkzeug
+WTForms
